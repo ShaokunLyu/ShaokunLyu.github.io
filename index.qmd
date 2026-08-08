@@ -1,0 +1,18 @@
+---
+title: "Shaokun Lyu"
+---
+
+# Welcome
+
+I am a researcher interested in spatial data science, GeoAI, urban health, and AI for scientific research.
+
+## Research Interests
+
+- Spatial Data Science
+- GeoAI
+- Urban Environment and Public Health
+- AI Agents for Scientific Research
+
+## Selected Work
+
+More coming soon.

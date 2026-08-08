@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shaokun Lyu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+
+    right:
+      - icon: github
+        href: https://github.com/ShaokunLyu
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
