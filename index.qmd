@@ -1,18 +1,46 @@
 ---
-title: "Shaokun Lyu"
+title: ""
+toc: false
+page-layout: full
 ---
 
-# Welcome
+::: {.hero}
 
-I am a researcher interested in spatial data science, GeoAI, urban health, and AI for scientific research.
+::: {.hero-text}
 
-## Research Interests
+# Shaokun Lyu
 
-- Spatial Data Science
-- GeoAI
-- Urban Environment and Public Health
-- AI Agents for Scientific Research
+**Researcher in Spatial Data Science, GeoAI, Urban Health, and AI for Science**
 
-## Selected Work
+I work at the intersection of geospatial data science, machine learning, environmental sustainability, and population health.
 
-More coming soon.
+My research focuses on understanding how environments shape human health and how AI can support scientific research.
+
+[Research](research.qmd){.btn .btn-primary}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[GitHub](https://github.com/ShaokunLyu){.btn .btn-outline-secondary}
+
+:::
+
+::: {.hero-image}
+
+![](images/profile.jpg)
+
+:::
+
+:::
+
+
+## Research
+
+### Spatial Data Science & GeoAI
+
+Using machine learning, remote sensing, and geospatial data to understand complex spatial systems.
+
+### Urban Environment & Health
+
+Studying how built, natural, and perceived environments influence health outcomes and spatial inequality.
+
+### AI for Scientific Research
+
+Developing and evaluating AI agents for scientific reasoning, reproducibility, and machine learning research.
