@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Shaokun Lyu"
 toc: false
 page-layout: full
 ---
@@ -7,8 +7,6 @@ page-layout: full
 ::: {.hero}
 
 ::: {.hero-text}
-
-# Shaokun Lyu
 
 ## PhD Student in Population, Health and Place at USC
 
@@ -31,16 +29,16 @@ My research focuses on leveraging geospatial data, AI, and statistical modeling 
 :::
 
 
-## Research
+## Research Focus
 
-### Spatial Data Science & GeoAI
+### GeoAI and Spatial Intelligence
 
-Using machine learning, remote sensing, and geospatial data to understand complex spatial systems.
+I develop data-driven approaches that combine geospatial data, remote sensing and machine learning to understand spatial environments. My work explores how AI can extract meaningful information from complex geographic systems.
 
-### Urban Environment & Health
+### Place, Environment, and Population Health
 
-Studying how built, natural, and perceived environments influence health outcomes and spatial inequality.
+I study how places influence human health by integrating environmental data, spatial analysis, and statistical modeling. My research examines how environments, accessibility, and social conditions contribute to health disparities and urban inequality.
 
-### AI for Scientific Research
+### Computational Methods for Scientific Discovery
 
-Developing and evaluating AI agents for scientific reasoning, reproducibility, and machine learning research.
+I am interested in developing reliable computational and AI methods that support scientific research, combining machine learning, data analysis, and domain knowledge to solve interdisciplinary problems.

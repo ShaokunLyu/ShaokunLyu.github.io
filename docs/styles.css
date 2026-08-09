@@ -83,6 +83,17 @@ h2 {
 }
 
 
+h3 {
+  margin-top: 3.5rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+
 /* ---------- Mobile ---------- */
 
 @media (max-width: 768px) {

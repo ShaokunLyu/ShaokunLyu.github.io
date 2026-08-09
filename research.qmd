@@ -1,5 +1,97 @@
 ---
 title: "Research"
+toc: true
 ---
 
-More coming soon.
+### A Tri-environmental GeoAI Framework for Urban Health and Environmental Exposure
+
+**Research Assistant | University of Southern California | 2024–2025**
+
+This project developed a GeoAI framework to investigate the relationship between children's health, environmental exposures, and neighborhood characteristics.
+
+I integrated multiple environmental dimensions, including:
+
+- **Actual environment:** built environment characteristics derived from spatial datasets;
+- **Perceived environment:** visual perception extracted from street-view imagery using computer vision and machine learning;
+- **Natural environment:** environmental exposure indicators derived from geospatial datasets.
+
+I processed spatial data using Python, GeoPandas, ArcGIS Pro, and Google Earth Engine, and applied machine learning approaches to identify environmental factors associated with neighborhood perception and health-related outcomes.
+
+
+
+
+
+
+### Data Augmentation for Urban Tree Genus Classification
+
+**Research Assistant | University of Southern California | 2024**
+
+This project applied deep learning and machine learning methods to identify urban tree species from remote sensing imagery.
+
+I extracted tree canopy information from NAIP satellite imagery using ArcGIS Pro and Google Earth Engine, addressed class imbalance between deciduous and evergreen species through data augmentation, and evaluated Random Forest classification performance under different augmentation strategies.
+
+
+
+
+
+
+### Neighborhood Visual Environment and Social Inequality
+
+**Research Assistant | University of Southern California | 2024–2025**
+
+This research investigated inequalities in neighborhood visual environments in Los Angeles.
+
+Using street-view imagery, computer vision, and multi-model machine learning, I quantified perceived environmental characteristics, including beauty, safety, livability, and affluence.
+
+The study identified how socioeconomic disadvantage is associated with differences in perceived neighborhood environments and analyzed key built environment features influencing human perception.
+
+
+
+
+
+
+### Multimodal Spatial Accessibility Analysis
+
+**Research Assistant | University of Southern California | 2024**
+
+This project investigated how multiple transportation modes can be incorporated into spatial accessibility measurement.
+
+I analyzed different accessibility modeling approaches by considering travel mode probabilities and weighted travel costs, proposing a weighted-mean travel time framework to better represent real-world population mobility patterns.
+
+
+
+
+
+
+### Spatial Analysis of Stroke Prevalence and Building Density in California
+
+**Project Leader | University of Southern California | 2024**
+
+This project explored relationships between urban form and health outcomes across California census tracts.
+
+I used GeoPandas and spatial statistical methods, including spatial autocorrelation analysis, to examine associations between building density patterns and stroke prevalence, identifying spatial trends relevant to urban health research.
+
+
+
+
+
+### High-Resolution Digital Elevation Model Generation Based on InSAR Data
+
+**Research Assistant | Wuhan University | 2025–2026**
+
+This project developed a high-precision Digital Elevation Model (DEM) generation system based on InSAR data.
+
+I contributed to building the computational workflow, supporting data acquisition and preprocessing, and developing a public interactive website that enabled on-demand DEM generation for research applications.
+
+
+
+
+
+
+### Flood Resilience Analysis Using Nighttime Light Data
+
+**Research Assistant | Hong Kong Polytechnic University | 2024**
+
+This project examined flood resilience using satellite-based nighttime light observations.
+
+I processed flood event data and VIIRS nighttime light imagery using Google Earth Engine and Python, analyzing changes in nighttime illumination before, during, and after flood events while applying statistical filtering methods to reduce noise.
