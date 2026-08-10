@@ -16,9 +16,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "More coming soon."
+    "text": "I am a PhD student in the Population, Health and Place program at the University of Southern California. My research lies at the intersection of spatial data science, GeoAI, and population health, with a broader interest in developing computational methods that can support scientific research.\nMy background spans data science, geospatial analysis, machine learning, and environmental health. I received my B.S. in Data Science through the Duke Kunshan University and Duke University dual-degree program, followed by an M.S. in Spatial Data Science from the University of Southern California.\nDuring my graduate training, I became increasingly interested in how computational methods can help us understand the relationship between people and place. My research has examined neighborhood visual environments, urban green space, spatial accessibility, remote sensing, environmental exposures, and health outcomes. Across these projects, I have worked with street-view imagery, satellite data, spatial databases, machine learning, and spatial statistical methods.\nMore broadly, I am interested in research problems where methodological rigor and domain understanding are equally important. I am particularly interested in how spatial data, artificial intelligence, and statistical modeling can be combined to study complex environmental and health systems, and how reliable AI methods can support scientific discovery.\n\n\n\nSpatial Data Science\nGeoAI and Remote Sensing\nUrban Environment and Population Health\nSpatial Accessibility and Health Equity\nMachine Learning for Environmental and Health Research\nAI for Scientific Research\n\n\n\n\nUniversity of Southern California\nPhD Student, Population, Health and Place\nUniversity of Southern California\nM.S. in Spatial Data Science, 2025\nDuke Kunshan University / Duke University\nB.S. in Data Science, 2023\n\n\n\nOutside research, I enjoy exploring new places, photography, sports, and learning about different cultures and languages."
   },
   {
     "objectID": "research.html",
@@ -75,5 +75,26 @@
     "title": "Research",
     "section": "GeoAI and Spatial Data Science",
     "text": "GeoAI and Spatial Data Science\nI develop data-driven approaches that combine geospatial data, remote sensing, computer vision, and machine learning to characterize complex spatial systems.\nMy work includes extracting environmental features from satellite imagery and street-view images, developing spatial machine learning models, and designing computational workflows for large-scale geographic analysis.\n\nSelected Projects\n\n\nA Tri-environmental GeoAI Framework for Urban Health and Environmental Exposure\nResearch Assistant | University of Southern California | 2024–2025\nThis project developed a GeoAI framework to investigate the relationship between children’s health, environmental exposures, and neighborhood characteristics.\nI integrated multiple environmental dimensions, including:\n\nActual environment: built environment characteristics derived from spatial datasets;\nPerceived environment: visual perception extracted from street-view imagery using computer vision and machine learning;\nNatural environment: environmental exposure indicators derived from geospatial datasets.\n\nI processed spatial data using Python, GeoPandas, ArcGIS Pro, and Google Earth Engine, and applied machine learning approaches to identify environmental factors associated with neighborhood perception and health-related outcomes.\n\n\nData Augmentation for Urban Tree Genus Classification\nResearch Assistant | University of Southern California | 2024\nThis project applied deep learning and machine learning methods to identify urban tree species from remote sensing imagery.\nI extracted tree canopy information from NAIP satellite imagery using ArcGIS Pro and Google Earth Engine, addressed class imbalance between deciduous and evergreen species through data augmentation, and evaluated Random Forest classification performance under different augmentation strategies."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Spatial Data Science\nGeoAI and Remote Sensing\nUrban Environment and Population Health\nSpatial Accessibility and Health Equity\nMachine Learning for Environmental and Health Research\nAI for Scientific Research"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "University of Southern California\nPhD Student, Population, Health and Place\nUniversity of Southern California\nM.S. in Spatial Data Science, 2025\nDuke Kunshan University / Duke University\nB.S. in Data Science, 2023"
+  },
+  {
+    "objectID": "about.html#beyond-research",
+    "href": "about.html#beyond-research",
+    "title": "About Me",
+    "section": "",
+    "text": "Outside research, I enjoy exploring new places, photography, sports, and learning about different cultures and languages."
   }
 ]
