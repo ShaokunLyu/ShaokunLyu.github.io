@@ -96,5 +96,26 @@
     "title": "About Me",
     "section": "",
     "text": "Outside research, I enjoy exploring new places, photography, sports, and learning about different cultures and languages."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "A reproducible machine learning workflow for studying the environment–disease nexus using spatial and environmental data.\nThe pipeline combines:\n\nAutoML for model and pipeline selection\nPCA for reducing multicollinearity\nGlobal Random Forest modeling\nGeographically weighted Random Forest for spatial heterogeneity\nSHAP for feature-level interpretation\nALE for identifying nonlinear effects and thresholds\n\nCode & Documentation"
+  },
+  {
+    "objectID": "projects.html#environmentdisease-modeling-with-automl-and-spatial-random-forest",
+    "href": "projects.html#environmentdisease-modeling-with-automl-and-spatial-random-forest",
+    "title": "Personal Website",
+    "section": "",
+    "text": "A reproducible machine learning workflow for studying the environment–disease nexus using spatial and environmental data.\nThe pipeline combines:\n\nAutoML for model and pipeline selection\nPCA for reducing multicollinearity\nGlobal Random Forest modeling\nGeographically weighted Random Forest for spatial heterogeneity\nSHAP for feature-level interpretation\nALE for identifying nonlinear effects and thresholds\n\nCode & Documentation"
+  },
+  {
+    "objectID": "projects.html#high-resolution-dem-generator",
+    "href": "projects.html#high-resolution-dem-generator",
+    "title": "Personal Website",
+    "section": "High-Resolution DEM Generator",
+    "text": "High-Resolution DEM Generator\nA MATLAB-based system for generating high-resolution Digital Elevation Models from InSAR data.\nThe project translates a research workflow into a reusable application, supporting DEM generation and related data-processing tasks.\nCode & Documentation"
   }
 ]

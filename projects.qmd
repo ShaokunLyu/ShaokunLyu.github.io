@@ -1,0 +1,24 @@
+## Environment–Disease Modeling with AutoML and Spatial Random Forest
+
+A reproducible machine learning workflow for studying the environment–disease nexus using spatial and environmental data.
+
+The pipeline combines:
+
+- AutoML for model and pipeline selection
+- PCA for reducing multicollinearity
+- Global Random Forest modeling
+- Geographically weighted Random Forest for spatial heterogeneity
+- SHAP for feature-level interpretation
+- ALE for identifying nonlinear effects and thresholds
+
+[Code & Documentation](https://github.com/ShaokunLyu/Auto-Machine-Learning-and-RF-Visualization){.btn .btn-primary}
+
+
+
+## High-Resolution DEM Generator
+
+A MATLAB-based system for generating high-resolution Digital Elevation Models from InSAR data.
+
+The project translates a research workflow into a reusable application, supporting DEM generation and related data-processing tasks.
+
+[Code & Documentation](https://github.com/ShaokunLyu/High-Resolution-DEM-Generator){.btn .btn-primary}
